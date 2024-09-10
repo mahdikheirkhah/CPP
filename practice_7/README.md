@@ -1,0 +1,1 @@
+it is an object-oriented programming with C++. it is same as practice_5 but some override methods have been added like logical operators.

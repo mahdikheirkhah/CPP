@@ -1,0 +1,1 @@
+it is an object-oriented programming with C++. insted of define methods inside the class, they can be defined outside of the class and introduced to the class as freindly so they can use private parts of class.

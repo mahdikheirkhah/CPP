@@ -1,0 +1,1 @@
+it is the same with practice_1 but two method has been added to myarray structure. first one is 'operator =' which is a override to assignment operator. so when the right value of '=' is type of myarray this method will be called for the assignment. for that it will use the second new method 'copy'.
